@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     442729642869313537       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Beginner IC Design      # Project title
+  title:        "Beginner IC Design"      # Project title
   author:       "Ethan"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Simple AND gate"      # One line description of what your project does
@@ -26,7 +26,7 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
+  uo[0]: "Output1"
   uo[1]: ""
   uo[2]: ""
   uo[3]: ""
